@@ -1,0 +1,17 @@
+
+.jumbotron{
+	padding: 6rem 1rem;
+	background-color: #414444;
+}
+
+#projects {
+	background-color: #414444;
+	padding-bottom: 4rem;
+}
+#contact{
+    height: 10cm;
+    background-color: #414444;
+}
+.section{
+    padding-top: 20rem 1rem;
+}
